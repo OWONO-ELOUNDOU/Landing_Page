@@ -203,3 +203,10 @@ a {
 }
 
 /* ============= DOWNLOAD PAGE CSS PROPERTIES ============== */
+.content .slides .elements .card .card-name a {
+    text-align: center;
+    color: var(--green-color);
+    background: var(--white-color);
+    padding: 10px 30px;
+    border-radius: 30px;
+}
